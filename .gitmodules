@@ -1,0 +1,3 @@
+[submodule "CameraWeb/html_openvideo"] 
+  path = CameraWeb/html_openvideo 
+  url = https://github.com/TuanDinh140194/OpenSourceVideo.git
